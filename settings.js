@@ -1,5 +1,6 @@
 // Change the url to the domain of your app
-exports.url = 'http://localhost:3090';
+// exports.url = 'http://localhost:3090';
+exports.url = 'https://test-sgwidget.herokuapp.com/';
 
 exports.senderEmail = "sender@example.com";
 exports.senderName = "Sender Name";
